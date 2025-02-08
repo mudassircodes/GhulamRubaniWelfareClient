@@ -1,0 +1,31 @@
+{
+  "name": "halpes-nextjs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "bootstrap": "5.1.3",
+    "jarallax": "^2.0.2",
+    "next": "12.1.0",
+    "react": "17.0.2",
+    "react-bootstrap": "^2.2.0",
+    "react-circular-progressbar": "^2.0.4",
+    "react-countup": "^6.1.1",
+    "react-dom": "17.0.2",
+    "react-modal-video": "^1.2.8",
+    "react-player": "^2.16.0",
+    "react-scroll": "^1.8.6",
+    "react-visibility-sensor": "^5.1.1",
+    "swiper": "^8.0.7",
+    "tiny-slider-react": "^0.5.4"
+  },
+  "devDependencies": {
+    "eslint": "8.10.0",
+    "eslint-config-next": "12.1.0"
+  }
+}
